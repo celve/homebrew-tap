@@ -1,6 +1,6 @@
 cask "uvim" do
-  version "1.1.1"
-  sha256 "40de267d47275aa8ff32398c0b3e6ff88c2ae23c1f032f84d29db47f13aff4e5"
+  version "1.1.2"
+  sha256 "b8184ac0becf9069b3743c195d51a5f0919c928f6b7e31fd9cab063df5840eb1"
 
   url "https://github.com/celve/uvim/releases/download/v#{version}/uvim-#{version}.zip"
   name "uvim"
